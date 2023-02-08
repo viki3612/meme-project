@@ -1,0 +1,17 @@
+.Banner-logo {
+  background: linear-gradient(
+    to right,
+    rgba(103, 34, 128, 1),
+    rgba(166, 38, 211, 1)
+  );
+  text-align: left;
+  padding: 30px 60px;
+}
+.banner-title {
+  color: white;
+  font-size: 30px;
+  margin: 0 auto;
+}
+.banner-image {
+  margin-right: 15px;
+}
